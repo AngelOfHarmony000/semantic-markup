@@ -18,4 +18,4 @@
 
 ![website example](./Assets/Images/Website_Example.png)
 
-[Link to website](./index.html)
+[Link to website](https://phoenix-staley.github.io/semantic-markup/)
