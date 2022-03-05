@@ -1,3 +1,5 @@
+/* This document sets the styles for the entire page, but does not act as a CSS reset or CSS normalize */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,12 +10,14 @@ body {
     background-color: #d9dcd6;
 }
 
+/* This main element was previously a <div> with the class "main" */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* This and the 4 following style rules previously styled a div to act as a header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -185,6 +189,7 @@ p {
     font-size: 36px;
 }
 
+/* This previously styled a div to act as a footer */
 .footer {
     padding: 30px;
     clear: both;
