@@ -16,6 +16,6 @@
 
 * Added alt text to the images in the aside element.
 
-![website example](./Assets/Images/Website_Example.png)
+![website example](./assets/images/Website_Example.png)
 
 [Link to website](https://phoenix-staley.github.io/semantic-markup/)
